@@ -19,5 +19,8 @@
 
 🚀 Seeking opportunities to contribute to dynamic projects and drive solutions in the field of mechanical engineering.
 
-📧 Connect with me: mathewjoseph3081@gmail.com | 🌐 LinkedIn: linkedin_mathewjoseph
+<h3>🕸️Let's Connect</h3>
+<ul>
+ <li><a href="https://www.linkedin.com/in/mathewjoseph26/">Linkedln | Mathew Joseph</a><br></li>
+</ul>
 
