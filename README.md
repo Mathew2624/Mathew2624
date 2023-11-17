@@ -1,5 +1,5 @@
 ### 👋 Hello, I'm Mathew Joseph!
-<img width="2000" alt="Coding" src="https://github.com/Mariyajoseph24/Mariyajoseph24/blob/main/Black%20Technology%20LinkedIn%20Baner%20(5).png">
+<img width="2000" alt="Coding" src="https://github.com/Mathew2624/Mathew2624/assets/150618966/e3a6e058-0de5-4134-ac8f-1c606fcc9642">
 
 
 🎓 Mechanical Engineering student at the University of Hertfordshire, UK.
