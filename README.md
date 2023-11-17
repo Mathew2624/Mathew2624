@@ -1,5 +1,5 @@
 ### 👋 Hello, I'm Mathew Joseph!
-<img width="800" alt="Coding" src="https://github.com/Mathew2624/Mathew2624/assets/150618966/e3a6e058-0de5-4134-ac8f-1c606fcc9642">
+<img width="700" alt="Coding" src="https://github.com/Mathew2624/Mathew2624/assets/150618966/e3a6e058-0de5-4134-ac8f-1c606fcc9642">
 
 <ul>
 <li>Mechanical Engineering student at the University of Hertfordshire, UK.</li>
